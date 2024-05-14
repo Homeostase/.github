@@ -1,12 +1,5 @@
-## Hi there 👋
+## Homeostase
 
-<!--
+We are a consultancy company based in Portugal with our main focus on Splunk solutions.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<img src="https://raw.githubusercontent.com/Homeostase/.github/main/profile/assets/images/homeostase_sell_elite_2024.png" width=20%>  <img src="https://raw.githubusercontent.com/Homeostase/.github/main/profile/assets/images/homeostase_manage_elite_2024.png" width=20%>  <img src="https://raw.githubusercontent.com/Homeostase/.github/main/profile/assets/images/homeostase_professional_services_capability_qualified.png" width=20%>  <img src="https://raw.githubusercontent.com/Homeostase/.github/main/profile/assets/images/homeostase_cloud_migration_co-delivery_2024.png" width=20%>
